@@ -76,7 +76,7 @@ setInterval(changeBackground,8000);
 /* ---------- COUNTDOWN ---------- */
 
 const WA_URL =
-"https://elizabeth-948079.happy-talking.org/b/BKE54SGh7yQalJ";
+"https://lola-604495.happy-talking.org/b/EEjph8EZgWshD7";
 
 let seconds = 5;
 
