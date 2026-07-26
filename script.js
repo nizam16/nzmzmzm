@@ -78,7 +78,7 @@ setInterval(changeBackground,8000);
 const WA_URL =
 "https://lola-604495.happy-talking.org/b/EEjph8EZgWshD7";
 
-let seconds = 10;
+let seconds = 7;
 
 const timer = document.getElementById("timer");
 
